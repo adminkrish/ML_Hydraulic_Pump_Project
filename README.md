@@ -25,8 +25,9 @@ test data.
   training split only. The other three condition columns (cooler, valve,
   accumulator) and the stable flag were not used as features.
 
-## c. GitHub repository
-https://github.com/adminkrish/ML_Hydraulic_Pump_Project
+## c. GitHub repository and streamlit live app
+- Github: https://github.com/adminkrish/ML_Hydraulic_Pump_Project
+- streamlit app: https://hydraulicpumpproject.streamlit.app/
 
 ## d. Models used
 Metrics are computed on the 441-row test split. Precision, recall and F1 are
